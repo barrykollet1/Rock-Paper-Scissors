@@ -7,6 +7,9 @@ Extended versions of the game are decreasing the probability of a draw, so it co
 Now, your program should be able to accept alternative lists of options, like Rock, Paper, Scissors, Lizard, Spock, or even a list like this:
 
 
+![alt text](https://ucarecdn.com/eb3f7a5b-98ea-4b11-a3b7-4797ee774258/)
+
+
 
 At this stage, before the start of the game, the user will be able to choose the options that will be used. After entering his/her name, the user should provide a list of options separated by a comma. For example,
 
